@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  /* background-color: #e5bccc; */
+  color: white;
 }
 
 .App-logo {
@@ -35,6 +37,29 @@
 .image {
   width: 180px;
   height: 180px;
-  border: 2px solid lightgray;
+  border: 6px solid #bcdce5;
   margin: 2%;
+  box-shadow: 6px 6px 8px #577780;
+}
+
+.container {
+  margin-left: 20%;
+  margin-right: 20%;
+  padding-bottom: 4%;
+  padding-top: 2%;
+  border-left: 6px solid #cc7e9c;
+  border-right: 6px solid #cc7e9c;
+}
+
+.nav {
+  background-color: #cc7e9c;
+  padding: 1%;
+}
+h1 {
+  margin-top: 0
+}
+
+.score {
+  padding: 2%;
+  font-size: 21px;
 }
