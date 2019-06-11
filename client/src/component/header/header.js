@@ -1,9 +1,10 @@
 import React from 'react'
 
-const Header = _ => {
+const Header = ({score, topscore}) => {
     return (
         <div>
-
+            <span>Score: {score} </span>
+            <span>Topscore: {topscore}</span>
         </div>
     )
 }
