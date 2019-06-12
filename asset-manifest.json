@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ClickyGame/static/css/main.14f51a21.chunk.css",
+    "main.js": "/ClickyGame/static/js/main.ff524eb2.chunk.js",
+    "main.js.map": "/ClickyGame/static/js/main.ff524eb2.chunk.js.map",
+    "runtime~main.js": "/ClickyGame/static/js/runtime~main.1eb9bb0a.js",
+    "runtime~main.js.map": "/ClickyGame/static/js/runtime~main.1eb9bb0a.js.map",
+    "static/js/2.350a341d.chunk.js": "/ClickyGame/static/js/2.350a341d.chunk.js",
+    "static/js/2.350a341d.chunk.js.map": "/ClickyGame/static/js/2.350a341d.chunk.js.map",
+    "index.html": "/ClickyGame/index.html",
+    "precache-manifest.80d334f7a22c7c0e5866aa50e19b9057.js": "/ClickyGame/precache-manifest.80d334f7a22c7c0e5866aa50e19b9057.js",
+    "service-worker.js": "/ClickyGame/service-worker.js",
+    "static/css/main.14f51a21.chunk.css.map": "/ClickyGame/static/css/main.14f51a21.chunk.css.map",
+    "static/media/300.png": "/ClickyGame/static/media/300.b57d5732.png",
+    "static/media/303.png": "/ClickyGame/static/media/303.8ef6e9e1.png",
+    "static/media/501.png": "/ClickyGame/static/media/501.570802c7.png",
+    "static/media/502.png": "/ClickyGame/static/media/502.7805bc07.png",
+    "static/media/604.png": "/ClickyGame/static/media/604.34e45e8a.png",
+    "static/media/606.png": "/ClickyGame/static/media/606.fa74375c.png",
+    "static/media/609.png": "/ClickyGame/static/media/609.7b78ce8e.png",
+    "static/media/617.png": "/ClickyGame/static/media/617.ddf552db.png",
+    "static/media/619.png": "/ClickyGame/static/media/619.d45633fe.png",
+    "static/media/624.png": "/ClickyGame/static/media/624.e3b7cf30.png",
+    "static/media/625.png": "/ClickyGame/static/media/625.69a7f528.png",
+    "static/media/626.png": "/ClickyGame/static/media/626.51886104.png"
+  }
+}
